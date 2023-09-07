@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="create_your_first_note">انشئ ملاحظتك الاولى</string>
+    <string name="notes">ملاحظات</string>
+    <string name="save_changes">"حفظ التغيرات "</string>
+    <string name="discard">الغاء</string>
+    <string name="save">حفظ</string>
+    <string name="are_you_sure_to_delete_note">هل متاكد من حذف الملاحظة</string>
+    <string name="confirm">حفظ</string>
+    <string name="title">العنوان</string>
+    <string name="type_something">اكتب شيئا</string>
+    <string name="search">البحث</string>
+</resources>
